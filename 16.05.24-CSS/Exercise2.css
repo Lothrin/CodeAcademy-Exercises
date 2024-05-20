@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: bisque;
+}
+
+#npname {
+
+    border-top: 2px transparent brown;
+    border-left: 2px transparent brown;
+    border-right: 2px transparent brown;
+    border-bottom: 2px solid rgb(6, 0, 0);
+    padding-bottom: 40px;
+    text-align: center;
+    margin: 40px 40px 20px 40px;
+    font-size: 1.7cm;
+    color: rgb(42, 21, 2);
+
+}
+
+#headline {
+
+    margin: 0px 700px 0px 40px;
+    
+    
+}
+#authors {
+
+    margin: 20px 40px 2px 40px;
+    padding-left: 10px;
+    padding-top: 10px;
+    border-top: 0.5px solid rgb(6, 0, 0)
+}
+
+#headimg {
+
+    border: 5px solid rgba(77, 35, 3, 0.369);
+    width: 1000px;
+    height: 600px;
+    margin: 20px 0px 20px 40px;
+    
+}
+i {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: smaller;
+    ;
+}
+#arthead {
+    margin: 10px 0px 20px 60px
+    
+}
+
+article {
+    margin: 10px 60px 20px 60px;
+    text-align: justify;
+}

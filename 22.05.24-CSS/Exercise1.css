@@ -97,9 +97,6 @@ p {
 .ind {
   text-indent: 15px;
 }
-&nbsp {
-  margin: 0;
-}
 
 .footer {
   text-align: center;
